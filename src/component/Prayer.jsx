@@ -38,7 +38,7 @@ export default function Prayer({ name, time }) {
     return (
         <div
             onClick={addToCalendar}
-            className="inline-flex flex-col items-center justify-center gap-3 w-28 h-32 p-5 transition-all duration-500 hover:border-yellow-500 hover:shadow-lg hover:shadow-yellow-200 text-gray-500 border-2 hover:border-4 border-gray-200 rounded-lg cursor-pointer hover:text-gray-200 hover:bg-gray-50 dark:text-gray-300 dark:bg-gray-800 dark:hover:bg-gray-700"
+            className="flex flex-col items-center justify-center gap-3 w-28 h-32 p-5 transition-all duration-500 hover:border-teal-600 hover:shadow-lg hover:shadow-teal-200 border-2 hover:border-4 border-gray-200 rounded-lg text-gray-300 bg-gray-800 hover:bg-gray-700"
         >
             <div className="text-lg font-semibold">{name}</div>
             <div className="text-3xl">{time}</div>

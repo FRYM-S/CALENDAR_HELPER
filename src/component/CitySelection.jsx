@@ -194,7 +194,7 @@ export default function CitySelection({ handler }) {
                 </label>
                 <select
                     id="states"
-                    className="bg-gray-500 cursor-pointer  transition-all border-2  dark:border-white text-gray-900 text-sm rounded-lg  w-full p-1 dark:bg-gray-700  dark:placeholder-yellow-400 dark:text-white dark:focus:ring-yellow-500 dark:focus:border-yellow-500"
+                    className="cursor-pointer transition-all border-2 text-sm rounded-lg w-full p-1 bg-gray-800 text-white focus:border-teal-600"
                     onChange={handler}
                 >
                     <option value="Riyadh">Riyadh</option>
