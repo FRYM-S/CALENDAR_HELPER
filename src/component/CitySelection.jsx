@@ -5,7 +5,7 @@ import React from "react";
 export default function CitySelection({ handler }) {
     return (
         <form className="max-w-lg mx-auto ">
-            <div className="flex items-center ">
+            <div className="flex items-center">
 
                 {/* if other countryis need to be added */}
                 {/* <button
