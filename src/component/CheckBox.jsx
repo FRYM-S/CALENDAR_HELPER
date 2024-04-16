@@ -40,7 +40,7 @@ export default function CheckBox() {
                 <CitySelection handler={handleCityChange} />
             </div>
 
-            {/* PRAYERS CHECK LIST */}
+            {/* PRAYER CARDS */}
             <ul className="flex flex-wrap justify-evenly">
                 <li className="m-2">
                     <Prayer name="Fajr" time={timings.Fajr} />

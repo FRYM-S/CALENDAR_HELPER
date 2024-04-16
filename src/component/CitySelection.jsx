@@ -7,6 +7,8 @@ export default function CitySelection({ handler }) {
         <form className="max-w-lg mx-auto ">
             <div className="flex items-center">
                 <h2 className="w-40 font-semibold">SELECT CITY:</h2>
+
+                {/* if other countryis need to be added */}
                 {/* <button
                     id="states-button"
                     data-dropdown-toggle="dropdown-states"
@@ -189,6 +191,7 @@ export default function CitySelection({ handler }) {
                         </li>
                     </ul>
                 </div> */}
+
                 <label htmlFor="states" className="sr-only">
                     Choose a state
                 </label>
