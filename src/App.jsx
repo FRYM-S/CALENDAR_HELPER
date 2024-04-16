@@ -6,7 +6,7 @@ function App() {
     return (
         <>
             <main className="grid grid-rows-12 grid-flow-col gap-3 min-h-screen m-0 px-5 text-center bg-gradient-to-br from-sky-800 to-teal-700 selection:bg-teal-500">
-                <header className="flex flex-col items-center justify-center gap-4 row-span-2 p-5 rounded-b-3xl bg-white/40 shadow-md">
+                <header className="flex flex-col items-center justify-center gap-3 row-span-2 p-5 rounded-b-3xl bg-white/40 shadow-md">
                     <h1 className="text-3xl font-bold text-gray-800 ">
                         PRAYER TIMES
                     </h1>

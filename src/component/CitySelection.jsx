@@ -5,8 +5,7 @@ import React from "react";
 export default function CitySelection({ handler }) {
     return (
         <form className="max-w-lg mx-auto ">
-            <div className="flex items-center">
-                <h2 className="w-40 font-semibold">SELECT CITY:</h2>
+            <div className="flex items-center ">
 
                 {/* if other countryis need to be added */}
                 {/* <button
@@ -192,8 +191,8 @@ export default function CitySelection({ handler }) {
                     </ul>
                 </div> */}
 
-                <label htmlFor="states" className="sr-only">
-                    Choose a state
+                <label htmlFor="states" className="w-44 font-semibold mr-4">
+                    SELECT CITY:
                 </label>
                 <select
                     id="states"
