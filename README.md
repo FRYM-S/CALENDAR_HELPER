@@ -4,7 +4,7 @@ This web app provides a simple interface for users to select a city and view the
 # Main feature
 The app allows users to add the prayer times to their Google Calendar with a single click, making it convenient for users to manage their daily prayer schedule.
 
-# frameworks and tools
+# Frameworks and tools
 - React
 - Tailwind css
 - Axios 
