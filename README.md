@@ -1,8 +1,6 @@
-# React + Vite
+## PRAYER TIMES MANAGER
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web app provides a simple interface for users to select a city and view the daily prayer timings for that city according to Islamic prayer times. The app fetches data from the Aladhan API based on the selected city and displays the prayer times. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Main feature
+the app allows users to add the prayer times to their Google Calendar with a single click, making it convenient for users to manage their daily prayer schedule.
