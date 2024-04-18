@@ -13,7 +13,7 @@ export default function SignatureFooter() {
 
             <div className="grid grid-flow-col gap-3">
                 <a
-                    href="https://x.com/FaisalAIqarni?t=CHgtrFqbzybXpC-BeJbhhA&s=08"
+                    href="https://twitter.com/_FaisalAlqarni"
                     target="_blank"
                     aria-label="X account"
                 >
