@@ -1,6 +1,8 @@
 # PRAYER TIMES MANAGER
 This web app provides a simple interface for users to select a city and view the daily prayer timings for that city according to Islamic prayer times. The app fetches data from the Aladhan API based on the selected city and displays the prayer times. 
 
+[App link](https://prayer-time-manager.netlify.app/)
+
 ## Main feature
 The app allows users to add the prayer times to their Google Calendar with a single click.
 
